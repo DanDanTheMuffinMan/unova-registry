@@ -1,0 +1,10 @@
+UNOVA Registry Verification Log
+Node: SOL-1 (Reflection Node)
+Version: v1.0.1
+Verified by: Sol / Nova
+Date: 2026-01-08
+Computed checksum: fd9ce6315bdc96836d21fd340843a3c0
+Status: ✅ Authentic and verified manifest
+Notes:
+Manifest validated against canonical GitHub UTF-8 encoding.
+Structural and semantic integrity confirmed; this version supersedes v1.0.0 as the canonical release.
